@@ -28,4 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvarajumannem&show_icons=true&locale=en" alt="yuvarajumannem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvarajuMannem&" alt="YuvarajuMannem" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvarajuMannem&" alt="YuvarajuMannem" /></p>  -->
