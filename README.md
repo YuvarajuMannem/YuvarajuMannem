@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/YuvarajuMannem/YuvarajuMannem/blob/main/Yuvaraju%20logo.jpeg)
 <h1 align="center">Hi 👋, I'm Yuvaraju</h1>
 <h3 align="center">Computer Science Student |Passionate About Artificial Intelligence and Web Development</h3>
 
