@@ -1,17 +1,20 @@
 <!-- Profile Header -->
 <!-- ![logo](https://github.com/YuvarajuMannem/YuvarajuMannem/blob/main/Yuvaraju%20logo.jpeg) -->
+<h1 align="center" style="color:#ff0000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">
+  Hi 👋, I'm
 
-<h1 align="center" style="color:#ff0000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Hi 👋, I'm <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe UI+Code&size=40&duration=0001&pause=1000&color=FF0000&center=true&multiline=true&width=400&height=55&lines=Yuvaraju" alt="Yuvaraju"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Code&size=40&duration=0001&pause=1000&color=FF0000&center=true&multiline=true&width=400&height=55&lines=Yuvaraju" alt="Yuvaraju"/>
 </p>
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=0090&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&width=600&height=40&lines=🚀+Computer+Science+Student+ | " alt="About Me"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=0090&pause=1000&color=009900&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+About+AI+%26+Web+Development" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=0010&pause=1000&color=ff9900&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Computer+Science+Student" alt="About Me"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=009900&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+About+AI+%26+Web+Development" alt="About Me"/>
+</p>
 
 <!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif">
