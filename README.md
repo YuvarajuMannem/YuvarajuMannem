@@ -8,10 +8,11 @@
 </p>
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Final+Year+CSE+%40+VIT-AP+%7C+Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+real-world+web+apps;Open+to+SDE+roles+2025-26" 
-    alt="About Me"/>
+<p align="center" style="font-family: 'Fira Code', monospace; font-size:22px; line-height:1.8; color:#ff9900;">
+  Final Year CSE @ VIT-AP | Full Stack Developer <br>
+  React • Node.js • MongoDB <br>
+  Building real-world web apps <br>
+  Open to SDE roles 2025–26
 </p>
 
 <p align="center">
