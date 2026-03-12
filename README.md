@@ -34,7 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=yuvarajumannem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p> -->
 
-- Final Year CSE @ VIT-AP | Full Stack Dev | React • Node.js • MongoDB | Open to SDE Roles
+- Final Year CSE @ VIT-AP | Full Stack Dev | React • Node.js • MongoDB | 300+ LeetCode problems | Open to SDE Roles
 - 👨‍💻 My projects: [Portfolio](https://yuvaraju-portfolio.vercel.app/)
 - 📫 Reach me: **mannemyuvaraju9503@gmail.com**
 - 📄 My resume: [Resume Link](https://rb.gy/jkaink)
