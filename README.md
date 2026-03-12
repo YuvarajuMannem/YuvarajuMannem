@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=0010&pause=1000&color=ff9900&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Final Year CSE @ VIT-AP | Full Stack Developer | React • Node.js • MongoDB | Building real-world web apps | Open to SDE roles 2025-26" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff9900&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Final Year CSE @ VIT-AP | Full Stack Developer | React • Node.js • MongoDB | Building real-world web apps | Open to SDE roles 2025-26" alt="About Me"/>
 </p>
 
 <p align="center">
