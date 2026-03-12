@@ -8,11 +8,19 @@
 </p>
 </h1>
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size:22px; line-height:1.8; color:#ff9900;">
-  Final Year CSE @ VIT-AP | Full Stack Developer <br>
-  React • Node.js • MongoDB <br>
-  Building real-world web apps <br>
-  Open to SDE roles 2025–26
+<p align="center" style="font-family:'Fira Code', monospace; font-size:24px; line-height:1.9;">
+<b>
+<span style="color:#ff9900;">Final Year CSE @ VIT-AP</span> |
+<span style="color:#00d9ff;">Full Stack Developer</span>
+</b>
+<br>
+<b>
+<span style="color:#61dafb;">React</span> • 
+<span style="color:#68a063;">Node.js</span> • 
+<span style="color:#47A248;">MongoDB</span>
+</b>
+<br>
+<b><span style="color:#ff4d6d;">Open to SDE Roles 2025-26</span></b>
 </p>
 
 <p align="center">
